@@ -1,1 +1,1 @@
-DB_NAME = "cust_data"
+export const DB_NAME = "cust_data"
